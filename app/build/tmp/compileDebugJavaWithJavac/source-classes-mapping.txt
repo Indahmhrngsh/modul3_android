@@ -1,0 +1,6 @@
+com/example/modul3_android/SkorActivity.java
+ com.example.modul3_android.SkorActivity
+com/example/modul3_android/BuildConfig.java
+ com.example.modul3_android.BuildConfig
+com/example/modul3_android/MainActivity.java
+ com.example.modul3_android.MainActivity
